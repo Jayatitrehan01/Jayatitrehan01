@@ -1,4 +1,4 @@
-<h2 align="left">Hi There!! <br>I'm Jayati Trehan <br>I'm a Data Science Aspirant...</h2>
+<h2 align="left">Hi There!! <br>I'm Jayati Trehan <br>I'm a Data Science Aspirant </h2>
 
 ###
 
