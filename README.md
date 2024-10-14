@@ -7,7 +7,7 @@
 </div>
 
 ###
-<hr style="border: 0.1px solid #ccc>
+#<hr style="border: 0.1px solid #ccc>
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDV2MmxxNW04MHE0a3d3NW9od3F5bmVmN2x4cXM2cmZnYmJ2cHhwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"  />
 
 ###
