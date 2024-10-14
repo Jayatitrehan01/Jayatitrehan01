@@ -6,7 +6,7 @@
 </div>
 
 <hr>
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDV2MmxxNW04MHE0a3d3NW9od3F5bmVmN2x4cXM2cmZnYmJ2cHhwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"  />
+<img align="right" height="220" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDV2MmxxNW04MHE0a3d3NW9od3F5bmVmN2x4cXM2cmZnYmJ2cHhwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"  />
 
 
 <h3>Languages and Tools :</h2>
@@ -49,7 +49,10 @@
   </a>
 </div>
 <hr>
-<img align = "center" height="350" width='600' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g0cHloYnI5dnc4cWxtNmR4dXk5bjBxa3U4Y2E0cXQzcjUxZWw2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d0amMEvOOZfoNDG6s/giphy.gif"  />
+ <div align="center">
+        <img height="350" width="800" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g0cHloYnI5dnc4cWxtNmR4dXk5bjBxa3U4Y2E0cXQzcjUxZWw2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d0amMEvOOZfoNDG6s/giphy.gif" />
+    </div>
+
 
 
 ###
