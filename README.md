@@ -52,8 +52,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/jayatitrehan01/jayatitrehan01/output/snake.svg" alt="Snake animation" />
 
 ###
