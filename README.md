@@ -1,16 +1,14 @@
 <h2 align="left">About me <br><h4> Hey There!! <br> 🚀 I'm an Aspiring data scientist with skills in Python, R, SQL, and Data visualization.<br> Passionate about turning data into insights and solving real-world problems. 
 <br>Always learning and eager to collaborate on exciting projects! </h4></h2>
 
-###
 
 <div align="right">
 </div>
 
-###
-#<hr style="border: 0.1px solid #ccc>
+<hr>
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDV2MmxxNW04MHE0a3d3NW9od3F5bmVmN2x4cXM2cmZnYmJ2cHhwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"  />
 
-###
+
 <h3>Languages and Tools :</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo"  />
@@ -38,8 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
 </div>
 
-###
+
 <br clear="both">
+<hr>
 <h3>Contact on :</h2>
 <div align="left">
   <a href="jayati.trehan998@gmail.com" target="_blank">
@@ -49,9 +48,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
+<hr>
+<img align = "center" height="350" width='600' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g0cHloYnI5dnc4cWxtNmR4dXk5bjBxa3U4Y2E0cXQzcjUxZWw2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d0amMEvOOZfoNDG6s/giphy.gif"  />
 
-###
-
-<img src="https://raw.githubusercontent.com/jayatitrehan01/jayatitrehan01/output/snake.svg" alt="Snake animation" />
 
 ###
