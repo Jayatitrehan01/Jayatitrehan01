@@ -38,9 +38,8 @@
 </div>
 
 ###
-
 <br clear="both">
-<h3>'Contact on'</h2>
+<h3>Contact on</h2>
 <div align="left">
   <a href="jayati.trehan998@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
