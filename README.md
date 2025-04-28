@@ -1,12 +1,13 @@
-<h2 align="left">About me <br><h4> Hey There!! <br> 🚀 I'm an Aspiring data scientist with skills in Python, R, SQL, and Data visualization.<br> Passionate about turning data into insights and solving real-world problems. 
-<br>Always learning and eager to collaborate on exciting projects! </h4></h2>
+<h2 align="left">About me <br><h4>Hi, I'm Jayati Trehan! When I'm not swimming through oceans of data with Python or crafting artful dashboards with Tableau and Power BI, I’m busy blending creativity with logic to uncover stories hidden in spreadsheets. Armed with SQL and a knack for automation, I aim to turn raw data into actionable insights that inspire innovation.
+<BR>
+🌟 Beyond crunching numbers, I’m intrigued by AI-driven tools and love exploring how machine learning can predict the future (or at least make a good guess!). I’m constantly learning, growing, and seeking opportunities to tackle real-world challenges through data. </h4></h2>
 
 
 <div align="right">
 </div>
 
 <hr>
-<img align="right" height="220" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDV2MmxxNW04MHE0a3d3NW9od3F5bmVmN2x4cXM2cmZnYmJ2cHhwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"  />
+<img align="right" height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVwbDJoOG1lZGxqNnowYXo2dDM4dm1hM2N0OTh0emptcXh2c2VvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 
 <h3>Languages and Tools :</h2>
