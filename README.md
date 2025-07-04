@@ -1,10 +1,10 @@
 <h2 align="left">About me <br><h4>👋Hi there! I’m a data enthusiast who loves wrangling messy datasets, building sleek dashboards, and uncovering insights that matter. With Python, SQL, and a good dose of curiosity, I turn raw data into real stories.
 
 Currently diving deep into:
-🔹 Machine Learning — building models that (hopefully) predict the future
-🔹 Streamlit & Dash — for making data apps that people actually want to use
-🔹 Advanced Data Visualisation — because charts should be beautiful and meaningful
-🔹 AI tools — exploring how artificial intelligence can make analytics even smarter
+* Machine Learning — building models that (hopefully) predict the future
+* Streamlit & Dash — for making data apps that people actually want to use
+* Advanced Data Visualisation — because charts should be beautiful and meaningful
+* AI tools — exploring how artificial intelligence can make analytics even smarter
 
 "I don’t just analyse data—I let it speak."</h4></h2>
 
