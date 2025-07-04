@@ -1,6 +1,49 @@
-<h2 align="left">About me <br><h4>Hi, I'm Jayati Trehan! When I'm not swimming through oceans of data with Python or crafting artful dashboards with Tableau and Power BI, I’m busy blending creativity with logic to uncover stories hidden in spreadsheets. Armed with SQL and a knack for automation, I aim to turn raw data into actionable insights that inspire innovation.
-<BR>
-🌟 Beyond crunching numbers, I’m intrigued by AI-driven tools and love exploring how machine learning can predict the future (or at least make a good guess!). I’m constantly learning, growing, and seeking opportunities to tackle real-world challenges through data. </h4></h2>
+<h2 align="left">About me <br><h4>👋 Hi, I'm Jayati Trehan!
+
+I'm a data enthusiast who loves turning chaos into clarity. Whether it's diving into messy datasets, designing insightful dashboards in Tableau or Power BI, or querying with SQL, I'm passionate about uncovering the stories hidden in data.
+
+🧠 With Python as my main tool and a growing curiosity in machine learning and AI-powered tools, I enjoy building data solutions that are not just functional, but also meaningful. From automation to analytics, I aim to bridge the gap between raw data and real-world impact.
+
+📊 I believe data is more than just numbers—it's a powerful narrative. I'm always upskilling, experimenting, and seeking new ways to use data to drive decisions and spark innovation.
+
+Let's connect, collaborate, and turn insights into action!
+
+Let me know if you’d like a more concise or technical version as well!
+
+
+
+
+
+
+
+
+You said:
+/human something interesting 
+
+
+ChatGPT said:
+Absolutely! Here's a more creative, fun, and engaging GitHub bio that still highlights your skills but with a unique twist to make you stand out:
+
+Jayati Trehan — Data Whisperer & Insight Alchemist 🔍📊
+
+By day, I decode chaotic spreadsheets and craft powerful dashboards. By night, I explore the magic of machine learning, chasing patterns that whisper secrets about the future.
+
+Armed with Python, SQL, and a deep love for Tableau & Power BI, I transform raw, messy data into sleek visuals and smart decisions. Whether I’m automating a tedious task or building predictive models, I live for that “aha!” moment when data tells a story.
+
+🧠 Forever curious.
+🤖 AI admirer.
+📈 Addicted to meaningful metrics.
+💡 Fueled by coffee and creativity.
+
+Currently exploring:
+
+ML models that guess the future (and sometimes get it right)
+
+Cool projects where data meets design
+
+Real-world problems begging for data-driven solutions
+
+"In a world of noise, I listen to data." </h4></h2>
 
 
 <div align="right">
