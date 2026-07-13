@@ -1,42 +1,32 @@
-<h2 align="left">About me <br><h4>👋Hi there! I’m a data enthusiast who loves wrangling messy datasets, building sleek dashboards, and uncovering insights that matter. With Python, SQL, and a good dose of curiosity, I turn raw data into real stories.
+<h2 align="left">About me <br><h4>Hi, I'm Jayati 👋
 
-Currently diving deep into:
-* Machine Learning — building models that (hopefully) predict the future
-* Streamlit & Dash — for making data apps that people actually want to use
-* Advanced Data Visualisation — because charts should be beautiful and meaningful
-* AI tools — exploring how artificial intelligence can make analytics even smarter
+I build applications with large language models, mostly RAG systems and agents, and I care more about whether they hold up for a real user than whether they look good in a screenshot. My day job and my instincts are rooted in data science, so measuring things is a reflex. I'd rather have an honest number that shows me where a system is weak than a pretty one I can't defend.
 
-"I don’t just analyse data—I let it speak."</h4></h2>
-
-
+- Data Scientist at Docplexus
+- Pursuing my MBA in Data Science at KL University
+- Currently down the rabbit hole of retrieval, agent design, and how you actually measure whether an LLM is any good
+- Ask me about wrangling messy data, training ML models, or talking a RAG pipeline out of hallucinating
+- Best way to reach me: jayati.trehan998@gmail.com
+- Fun fact: I debug better at 1am than at 1pm and I've stopped fighting it
 <div align="right">
 </div>
 
 <hr>
-<img align="right" height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVwbDJoOG1lZGxqNnowYXo2dDM4dm1hM2N0OTh0emptcXh2c2VvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 
-<h3>Languages and Tools :</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="25" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="25" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
-</div>
+<h3>Def what_jayati_does():
+</h2>
 
+    builds           = ['rag systems', 'llm agents', 'data apps people actually open']
+    languages        = ['python', 'sql']
+    data_analytics   = ['pandas', 'numpy', 'excel', 'matplotlib', 'seaborn', 'plotly', 'eda', 'dashboards']
+    machine_learning = ['scikit-learn', 'regression', 'classification', 'random forest', 'gradient boosting', 'feature engineering', 'model evaluation']
+    generative_ai    = ['langchain', 'rag', 'vector stores', 'embeddings', 'llm apis', 'prompt engineering', 'agents', 'evals']
+    tools            = ['git', 'jupyter', 'streamlit', 'vs code']
+    philosophy       = 'measure it before you trust it'
+    currently        = 'teaching agents to fail gracefully'
+
+    return 'still shipping'
 
 <br clear="both">
 <hr>
@@ -50,9 +40,6 @@ Currently diving deep into:
   </a>
 </div>
 <hr>
- <div align="center">
-        <img height="350" width="800" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g0cHloYnI5dnc4cWxtNmR4dXk5bjBxa3U4Y2E0cXQzcjUxZWw2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d0amMEvOOZfoNDG6s/giphy.gif" />
-    </div>
 
 
 
