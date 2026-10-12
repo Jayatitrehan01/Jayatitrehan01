@@ -3,7 +3,7 @@
 I build applications with large language models, mostly RAG systems and agents, and I care more about whether they hold up for a real user than whether they look good in a screenshot. My day job and my instincts are rooted in data science, so measuring things is a reflex. I'd rather have an honest number that shows me where a system is weak than a pretty one I can't defend.
 
 - Data Scientist at Docplexus
-- Pursuing my MBA in Data Science at KL University
+- Completed my MBA in Data Science at KL University
 - Currently down the rabbit hole of retrieval, agent design, and how you actually measure whether an LLM is any good
 - Ask me about wrangling messy data, training ML models, or talking a RAG pipeline out of hallucinating
 - Best way to reach me: jayati.trehan998@gmail.com
